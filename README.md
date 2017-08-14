@@ -41,7 +41,7 @@
 3. Reboot your PC
 4. Run following command to verify that you are running the custom kernel
  
-   	~# uname -r
+        ~# uname -r
         4.12.7-custom
 
 
