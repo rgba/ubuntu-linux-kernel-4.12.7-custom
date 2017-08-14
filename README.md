@@ -3,7 +3,7 @@
 1. Download all the *.deb files into a directory
 2. Within the directory execut following command to install the new kernel 
    
-       dpkg -i dpkg -i *.deb
+       dpkg -i *.deb
 
    You should now see following output
 
