@@ -42,6 +42,6 @@
 4. Run following command to verify that you are running the custom kernel
  
    	~# uname -r
- 	  4.12.7-custom
+        4.12.7-custom
 
 
