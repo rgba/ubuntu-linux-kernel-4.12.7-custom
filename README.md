@@ -1,5 +1,11 @@
 # ubuntu-linux-kernel-4.12.7-custom
 
+This custom ubuntu kernel contains a patch provided by ursm (https://github.com/ursm) for properly supporting the Elan touchpad of the Lenovo X1 Carbon 5th gen model. 
+
+https://gist.github.com/ursm/6d1007f44a1d6beeb670b3c3a6a78ea4
+
+# Installation instructions 
+
 1. Download all the *.deb files into a directory
 2. Within the directory execut following command to install the new kernel 
    
